@@ -14,7 +14,7 @@
 В процессе тестирования использовались следующие артефакты:
 * Cоздать новый проект по тестированию на IntelliJ IDEA 2020.3.3 (Community edition)
 * Написать базовое приложение, используя вводные данные
-  ```
+```
 public class Main {
 public static void main(String[] args) {
 double regularBonus = 0.3;
